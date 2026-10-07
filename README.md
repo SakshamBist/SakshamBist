@@ -1,5 +1,6 @@
 # SAKSHAM-BIST
 <div align="center">
+<div text-align="centre">
 
 ### 👋 Hey, I'm [Your Name]
 
