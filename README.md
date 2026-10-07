@@ -1,7 +1,7 @@
-# SAKSHAM-BIST
-<div align="center">
 
-### 👋 Hey, I'm [Your Name]
+<div align="center" , text-align="center">
+
+### 👋 Hey, I'm [SAKSHAM BIST]
 
 **Developer** • **Data Enthusiast** • **Tech Explorer**
 
