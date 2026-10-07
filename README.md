@@ -1,6 +1,6 @@
 
 <div align="center">
-<div text-align="center">
+
 
 ### 👋 Hey, I'm [SAKSHAM BIST]
 
