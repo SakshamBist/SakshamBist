@@ -21,14 +21,43 @@
 <div align="center">
 ---
 
-### ⚡ TECHNICAL SPECIFICATIONS ⚡
+### ⚡ TECHNICAL SPECIFICATIONS & SYSTEM MATRIX ⚡
 
-| Category | System Specs |
-| :--- | :--- |
-| **Institution** | Rishihood University |
-| **Major** | Computer & Data Science (B.Tech) |
-| **Core Architecture** | Data Structures & Algorithms, Machine Learning Pipelines |
-| **Primary OS** | Linux / macOS / Windows |
+<table>
+  <tr>
+    <td align="center" width="25%"><b>🎓 Institution</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Rishihood_University-00FF66?style=for-the-badge&logo=education&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧬 Major Focus</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/B.Tech-CS_%26_Data_Science-00E5FF?style=for-the-badge&logo=python&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Architecture</b></td>
+    <td>
+      <code>Data Structures & Algorithms</code> • <code>Machine Learning Pipelines</code> • <code>Big Data Systems</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🖥️ Operating Systems</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+      <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚡ Runtime Telemetry</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF66?style=flat-square" />
+      <img src="https://img.shields.io/badge/BUILD-STABLE-00E5FF?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
