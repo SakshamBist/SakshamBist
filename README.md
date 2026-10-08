@@ -11,13 +11,13 @@
 </div>
 
 ---
-<div text-align="center>
+
 ### 👨‍💻 About Me
 * 🎓 First-Year **Computer Science & Data Science** student at **Rishihood University**.
 * 💡 Passions include Python programming, machine learning algorithms, and software development.
 * 🚀 Passionate about building real-world projects and solving practical problems through code.
 * 📌 *Current Goal:* Building strong foundations in Data Structures, Algorithms, and ML pipelines.
-</div>
+
 ---
 
 ### 🛠️ Tech Stack
