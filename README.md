@@ -60,46 +60,80 @@
 </table>
 
 ---
+<div align="center">
 
-### 💻 SYSTEM STACK & MODULES
+<!-- Vercel / Tokyo-Night Waving Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00f2fe&height=180&section=header&text=SAKSHAM%20BIST&fontSize=48&fontColor=ffffff&fontAlignY=38" width="100%" />
 
-<details open>
-<summary><b>⚡ [CLICK TO TOGGLE] LANGUAGES & CORE FRAMEWORKS</b></summary>
+<!-- Modern Minimalist Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=50&lines=CS+%26+Data+Science+Student;Building+Data-Driven+Intelligent+Systems;Exploring+ML%2C+Algorithms+%26+Cloud" alt="Typing Animation" />
+</a>
+
+</div>
+
 <br />
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PYTHON-00FF66?style=for-the-badge&logo=python&logoColor=black" />
-  </a>
-  <a href="https://en.cppreference.com/" target="_blank">
-    <img src="https://img.shields.io/badge/C%2B%2B-00E5FF?style=for-the-badge&logo=c%2B%2B&logoColor=black" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-FF007F?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-FF9900?style=for-the-badge&logo=html5&logoColor=black" />
-  </a>
-</p>
-</details>
 
-<details open>
-<summary><b>🛠️ [CLICK TO TOGGLE] DEVELOPER ENVIRONMENT & TOOLS</b></summary>
+<!-- BENTO GRID CONTAINER -->
+
+<table>
+  <!-- Row 1: Profile Bio & Status -->
+  <tr>
+    <td width="65%" valign="top">
+      <h3>🚀 Profile Overview</h3>
+      <ul>
+        <li>🎓 <b>Education:</b> CS & Data Science Undergrad @ Rishihood University</li>
+        <li>🧬 <b>Core Focus:</b> Machine Learning, Data Structures & Predictive Modeling</li>
+        <li>🛠️ <b>Current Goals:</b> Building scalable AI pipelines & contributing to open source</li>
+        <li>⚡ <b>Motto:</b> <i>"Transforming raw data into intelligent software."</i></li>
+      </ul>
+    </td>
+    <td width="35%" valign="top" align="center">
+      <h3>⚡ Telemetry</h3>
+      <p>
+        <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00f2fe?style=for-the-badge&logoColor=black" />
+      </p>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=SakshamBist&label=PROFILE+VIEWS&color=00f2fe&style=for-the-badge" alt="Views" />
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 2: Interactive Stack Grid -->
+  <tr>
+    <td colspan="2" align="center">
+      <h3>🛠️ Tech Stack & Ecosystem</h3>
+      <p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,cpp,postgres,html,css,git,github,vscode,linux&theme=dark&perline=9" alt="Tech Stack" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 3: Real-Time GitHub Analytics -->
+  <tr>
+    <td colspan="2" align="center">
+      <h3>📊 Developer Analytics</h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=SakshamBist&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=00f2fe&text_color=9eeaf9" width="48%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshamBist&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" width="48%" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 <br />
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<!-- Connect Footer -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/saksham-bist-6b9b823a4" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:bistsaksham1985@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  </a>
-</p>
-</details>
+</div>
 
 ---
 
