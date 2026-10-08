@@ -1,29 +1,21 @@
 <div align="center">
 
-<!-- Animated RGB Waving Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,20:ff7f00,40:ffff00,60:00ff00,80:0000ff,100:8b00ff&height=220&section=header&text=SAKSHAM%20BIST&fontSize=50&fontColor=ffffff&animation=twinkle&fontAlignY=35" width="100%" />
+<!-- Futuristic Matrix Neon Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=180&section=header&text=SAKSHAM%20BIST&fontSize=52&fontColor=000000&animation=fadeIn&fontAlignY=40" width="100%" />
 
-<!-- Animated Glowing RGB Typing Header -->
+<!-- Terminal Prompt Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2000&pause=800&color=00FF66&center=true&vCenter=true&width=650&height=70&lines=%E2%9A%A1+CS+%26+DATA+SCIENCE+UNDERGRAD;%F0%9F%92%A1+TURNING+DATA+INTO+INTELLIGENT+SYSTEMS;%F0%9F%9F%A2+RGB+FUELED+DEVELOPER;%F0%9F%9A%80+BUILDING+SCALABLE+SOFTWARE" alt="Typing Animation Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=700&height=60&lines=$+whoami;>+CS+%26+Data+Science+Student;>+Architecting+Data-Driven+Systems;>+Exploring+ML%2C+Algorithms+%26+Cloud" alt="Terminal Typing Animation" />
 </a>
+
+</div>
 
 <br />
 
-<!-- Animated RGB Glowing Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE-ff0055?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/THEME-RGB_DARK-00f0ff?style=for-the-badge&logo=razer&logoColor=black" />
-  <img src="https://komarev.com/ghpvc/?username=SakshamBist&label=PROFILE+VIEWS&color=7000FF&style=for-the-badge" alt="Visitor Counter" />
-</p>
-
-<!-- Glowing Dark RGB Matrix Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakshamBist&show_icons=true&theme=synthwave&hide_border=false&bg_color=0D1117&title_color=00FF66&icon_color=FF007F&text_color=00F0FF&border_color=FF007F" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshamBist&theme=synthwave&hide_border=false&background=0D1117&ring=FF007F&fire=00FF66&currStreakLabel=00F0FF&border=00F0FF" width="48%" />
-</p>
-
-</div>
+<!-- Hacker Terminal / System Spec Box -->
+```bash
+┌──(saksham@rishihood)-[~/profile]
+└─$ neofetch
 ---
 
 ### ⚡ TECHNICAL SPECIFICATIONS ⚡
