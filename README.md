@@ -1,61 +1,55 @@
-
 <div align="center">
 
-
-### 👋 Hey, I'm [SAKSHAM BIST]
-
-**Developer** • **Data Enthusiast** • **Tech Explorer**
-
-*Turning raw data into intelligent solutions*
-
-</div>
+<!-- Animated Header Banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=70&lines=SAKSHAM+BIST;CS+%26+DATA+SCIENCE+STUDENT;TURNING+DATA+INTO+INTELLIGENT+SYSTEMS" alt="Typing Animation Header" />
 
 ---
 
-### 👨‍💻 About Me
-* 🎓 First-Year **Computer Science & Data Science** student at **Rishihood University**.
-* 💡 Passions include Python programming, machine learning algorithms, and software development.
-* 🚀 Passionate about building real-world projects and solving practical problems through code.
-* 📌 *Current Goal:* Building strong foundations in Data Structures, Algorithms, and ML pipelines.
+### ⚡ TECHNICAL SPECIFICATIONS ⚡
+
+| Category | System Specs |
+| :--- | :--- |
+| **Institution** | Rishihood University |
+| **Major** | Computer & Data Science (B.Tech) |
+| **Core Architecture** | Data Structures & Algorithms, Machine Learning Pipelines |
+| **Primary OS** | Linux / macOS / Windows |
 
 ---
 
-### 🛠️ Tech Stack
-#### 💻 Languages & Tech
+### 💻 SYSTEM STACK & MODULES
+
+#### Languages & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-#### 🛠️ Tools
+#### Tools & Environment
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-### 📌 Featured Projects
-* **Project 1 Name:** Brief 1-line description of what the project does.
-* **Project 2 Name:** Brief 1-line description of what the project does.
+### 📊 ANALYTICS & ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SakshamBist&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=8B949E" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshamBist&theme=dark&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="48%" />
+</p>
 
 ---
 
-### 🤝 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+### 🌐 CONNECT WITH ME
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saksham-bist-6b9b823a4" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
----
-
-<div align="center">
-
-**Build. Learn. Improve. Repeat.**  
-*Thanks for visiting my profile!* 🚀
-
-</div>
+<br />
