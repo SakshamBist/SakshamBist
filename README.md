@@ -11,7 +11,7 @@
 </div>
 
 ---
-<div bacgground-color:red>
+<div text-align="center>
 ### 👨‍💻 About Me
 * 🎓 First-Year **Computer Science & Data Science** student at **Rishihood University**.
 * 💡 Passions include Python programming, machine learning algorithms, and software development.
