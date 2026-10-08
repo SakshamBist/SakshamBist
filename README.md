@@ -61,44 +61,55 @@
 
 ---
 ### 💻 SYSTEM STACK & MODULES
-<div text-align="center">
-<details open>
-<summary><b>⚡ [CLICK TO TOGGLE] LANGUAGES & CORE FRAMEWORKS</b></summary>
-<br />
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PYTHON-00FF66?style=for-the-badge&logo=python&logoColor=black" />
-  </a>
-  <a href="https://en.cppreference.com/" target="_blank">
-    <img src="https://img.shields.io/badge/C%2B%2B-00E5FF?style=for-the-badge&logo=c%2B%2B&logoColor=black" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-FF007F?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-FF9900?style=for-the-badge&logo=html5&logoColor=black" />
-  </a>
-</p>
-</details>
 
-<details open>
-<summary><b>🛠️ [CLICK TO TOGGLE] DEVELOPER ENVIRONMENT & TOOLS</b></summary>
-<br />
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </a>
-  <a href="https://github.com" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  </a>
-</p>
-</details>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <details open>
+        <summary><b>⚡ LANGUAGES & FRAMEWORKS</b></summary>
+        <br />
+        <p align="center">
+          <a href="https://www.python.org/" target="_blank">
+            <img src="https://img.shields.io/badge/PYTHON-00FF66?style=for-the-badge&logo=python&logoColor=black" />
+          </a>
+          <a href="https://en.cppreference.com/" target="_blank">
+            <img src="https://img.shields.io/badge/C%2B%2B-00E5FF?style=for-the-badge&logo=c%2B%2B&logoColor=black" />
+          </a>
+          <br /><br />
+          <a href="https://www.postgresql.org/" target="_blank">
+            <img src="https://img.shields.io/badge/SQL-FF007F?style=for-the-badge&logo=postgresql&logoColor=white" />
+          </a>
+          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+            <img src="https://img.shields.io/badge/HTML5-FF9900?style=for-the-badge&logo=html5&logoColor=black" />
+          </a>
+        </p>
+      </details>
+    </td>
+    <td width="50%" valign="top">
+      <details open>
+        <summary><b>🛠️ ENVIRONMENT & TOOLS</b></summary>
+        <br />
+        <p align="center">
+          <a href="https://git-scm.com/" target="_blank">
+            <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+          </a>
+          <a href="https://github.com" target="_blank">
+            <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <br /><br />
+          <a href="https://code.visualstudio.com/" target="_blank">
+            <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+          </a>
+          <a href="https://www.linux.org/" target="_blank">
+            <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+          </a>
+        </p>
+      </details>
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 ### 📊 ANALYTICS & ACTIVITY
