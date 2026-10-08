@@ -63,20 +63,14 @@
 
 ### 💻 SYSTEM STACK & MODULES
 
-#### Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
+<div align="center">
 
-#### Tools & Environment
-<p>
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+<!-- Hover-Interactive Animated Icon Grid -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,cpp,postgres,html,css,git,github,vscode,linux&theme=dark&perline=5" alt="Tech Stack Icons" />
+</a>
+
+</div>
 
 ---
 
