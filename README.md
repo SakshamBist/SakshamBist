@@ -12,7 +12,6 @@
 
 <br />
 
-<!-- Hacker Terminal / System Spec Box -->
 ```bash
 ┌──(saksham@rishihood)-[~/profile]
 └─$ neofetch
@@ -23,5 +22,5 @@ SAKSHAM BIST
   Kernel     : Data Structures, Algorithms & Machine Learning
   Shell      : zsh / bash
   Focus      : Big Data Analytics, Neural Networks, Full-Stack Dev
-  Status     : 🟢 Active | Open for Open-Source & AI Projects
+  Status     : Active | Open for Open-Source & AI Projects
   Motto      : "Transforming raw data into predictive intelligence."
