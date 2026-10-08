@@ -25,7 +25,7 @@
 </picture>
 
 </div>
-<div text-align="centre">
+<div align-item="centre">
 
 ---
 
