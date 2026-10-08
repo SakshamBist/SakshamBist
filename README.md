@@ -61,7 +61,7 @@
 
 ---
 ### 💻 SYSTEM STACK & MODULES
-
+<div text-align="center">
 <details open>
 <summary><b>⚡ [CLICK TO TOGGLE] LANGUAGES & CORE FRAMEWORKS</b></summary>
 <br />
