@@ -25,8 +25,8 @@
 </picture>
 
 </div>
-<div align-item="centre">
 
+<div align="center">
 ---
 
 ### ⚡ TECHNICAL SPECIFICATIONS ⚡
